@@ -2,7 +2,7 @@
 
 # Install dependencies
 ```
-pip install requests
+pip install requests PySide6 pyqtgraph panda
 ```
 
 # How to run
